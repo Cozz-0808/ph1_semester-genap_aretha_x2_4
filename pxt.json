@@ -1,5 +1,6 @@
 {
     "name": "PH1_Semester Genap_Aretha_x2_4 - Copy",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
